@@ -23,7 +23,6 @@ saucedemo-sdet/
 ├── test_plan.md
 ├── bug_reports.md
 ├── requirements.txt
-├── .gitignore
 └── tests/
     ├── test_login.py
     ├── test_checkout.py
@@ -79,4 +78,4 @@ pytest -v
 The following Loom video recordings explain my testing approach and demonstrate the actual bug reproduction:
 
 - **Video 1 - Test Plan & Automation Overview:** [PASTE_LOOM_VIDEO_1_LINK_HERE]
-- **Video 2 - Manual Bug Discovery Demo:** [PASTE_LOOM_VIDEO_2_LINK_HERE]
+- **Video 2 - Manual Bug Discovery Demo:** [https://www.loom.com/share/195a4e04fa8b45d2a2b213df0729418e]
