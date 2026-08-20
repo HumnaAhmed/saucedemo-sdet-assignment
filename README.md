@@ -47,7 +47,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/HumnaAhmed/saucedemo-sdet-assignment
+git clone https://github.com/HumnaAhmed/saucedemo-sdet-assignment.git
 cd saucedemo-sdet
 ```
 
