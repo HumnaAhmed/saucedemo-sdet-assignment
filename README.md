@@ -78,4 +78,4 @@ pytest -v
 The following Loom video recordings explain my testing approach and demonstrate the actual bug reproduction:
 
 - **Video 1 - Test Plan & Automation Overview:** [https://www.loom.com/share/99e4e57878004688be74931e8945194d]
-- **Video 2 - Manual Bug Discovery Demo:** [https://www.loom.com/share/195a4e04fa8b45d2a2b213df0729418e]
+- **Video 2 - Manual Bug Discovery Demo:** https://www.loom.com/share/195a4e04fa8b45d2a2b213df0729418e
